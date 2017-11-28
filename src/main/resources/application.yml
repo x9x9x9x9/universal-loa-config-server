@@ -1,0 +1,12 @@
+server:
+  port: 9090
+spring:
+  application:
+    name: universal-loa-config-service
+  cloud:
+    config:
+      server:
+        git:
+          uri: null
+          username: null
+          password: null
