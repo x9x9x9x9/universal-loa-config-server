@@ -7,6 +7,6 @@ spring:
     config:
       server:
         git:
-          uri: null
-          username: null
-          password: null
+          uri: https://github.com/x9x9x9x9/universal-loa-config-server
+          username: x9x9x9x9
+          password: lims0301
